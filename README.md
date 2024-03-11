@@ -1,4 +1,2 @@
 # Dyadic-Affect-Networks
-Place to store GIFs for multiple dyads, showing how the strength of dynamic parameters between positive and negative affect of a couple changes over time
-
-GIFs showing the changes in dynamic parameters for each dyad over time are stored in the folder Dyad Networks. In these plots, red lines represent negative relations, whereas blue lines represent positive relations. 
+Hello! This GitHub page is associated with the paper "Variation in emotion dynamics over time is associated with future relationship outcomes" by Simran K. Johal and Emilio Ferrer. To view the GIFs showing changes in dynamic parameters for each dyad over time, please navigate to the "Dyad Networks" folder. In each gif, red lines represent negative relations and blue lines represent positive relations between variables. Line thickness corresponds to the strength of that relation.
